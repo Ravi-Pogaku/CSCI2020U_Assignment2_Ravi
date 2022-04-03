@@ -24,7 +24,7 @@ tasks.withType(JavaCompile) {
 
 application {
     mainModule = 'group.csci2020u_assignment2'
-    mainClass = 'group.csci2020u_assignment2.HelloApplication'
+    mainClass = 'group.csci2020u_assignment2.AssignmentMain'
 }
 
 javafx {
